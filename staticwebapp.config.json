@@ -1,0 +1,9 @@
+{
+  "globalHeaders": {
+    "Access-Control-Allow-Origin": "https://www.example.com",
+    "Access-Control-Allow-Methods": "GET, OPTIONS, POST"
+  },
+  "routes": [
+    // other routing rules
+  ]
+}
